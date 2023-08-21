@@ -1,5 +1,5 @@
 # Task
-
+Link: `https://www.codewars.com/kata/602db3215c22df000e8544f0/python`
 Your job is to write a function, which takes three integers a, b, and c as arguments, and returns True if exactly two of of the three integers are positive numbers (greater than zero), and False - otherwise.
 
 Examples:
